@@ -19,3 +19,8 @@ Create a new notebook by selecting "Clojure (vald-client)" kernel.
 Now you can access to your Vald cluster by using vald-client-clj APIs.
 
 <img src="./images/screenshot02.png" width="100%"/>
+
+Examples
+---
+
+An example notebook can be found [`examples/clojupyter-vald.ipynb`](https://github.com/rinx/clojupyter-vald-sample/blob/master/examples/clojupyter-vald.ipynb).
