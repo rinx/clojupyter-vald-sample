@@ -14,8 +14,8 @@ Notebook app will be started in the container.
 
 Create a new notebook by selecting "Clojure (vald-client)" kernel.
 
-<img src="./screenshot01.png" width="100%"/>
+<img src="./images/screenshot01.png" width="100%"/>
 
 Now you can access to your Vald cluster by using vald-client-clj APIs.
 
-<img src="./screenshot02.png" width="100%"/>
+<img src="./images/screenshot02.png" width="100%"/>
