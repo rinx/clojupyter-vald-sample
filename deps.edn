@@ -1,0 +1,6 @@
+{:deps {clojupyter {:mvn/version "0.3.2"}
+        vald-client-clj {:mvn/version "v0.0.43"}
+        io.grpc/grpc-okhttp {:mvn/version "1.29.0"}}
+ :aliases {:depstar
+           {:extra-deps
+            {seancorfield/depstar {:mvn/version "0.3.0"}}}}}
