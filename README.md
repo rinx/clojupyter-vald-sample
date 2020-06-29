@@ -23,4 +23,4 @@ Now you can access to your Vald cluster by using vald-client-clj APIs.
 Examples
 ---
 
-An example notebook can be found [`examples/clojupyter-vald.ipynb`](https://github.com/rinx/clojupyter-vald-sample/blob/master/examples/clojupyter-vald.ipynb).
+An example notebook can be found [`examples/clojupyter-vald.ipynb`](https://nbviewer.jupyter.org/github/rinx/clojupyter-vald-sample/blob/master/examples/clojupyter-vald.ipynb).
