@@ -1,6 +1,8 @@
 name: Build docker image
 on:
   push:
+    branches:
+      - master
     paths:
       - .github/workflows/docker.yml
       - Dockerfile
